@@ -22,3 +22,13 @@ nav {
 .navUl li {
     margin-left: 20px;
 }
+
+.bodyHeader {
+    border: 2px dashed burlywood;
+    text-align: center;
+    
+}
+
+img {
+    max-width: 100%;
+}
