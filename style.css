@@ -1,3 +1,24 @@
 body {
     background: rgb(248, 243, 236);
+    margin: 0;
+}
+
+nav {
+    border: 2px dashed yellowgreen;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+.navUl {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.navUl li {
+    margin-left: 20px;
 }
